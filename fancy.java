@@ -16,6 +16,6 @@ public class fancy {
 		String yrke = tast.inLine();
 
 		skjerm.out("Hei, " + navn + " du er " + alder);
-		skjerm.outln("år gammel, og jobber som" + yrke);	
+		skjerm.outln("aar gammel, og jobber som " + yrke);	
 	}
 }
